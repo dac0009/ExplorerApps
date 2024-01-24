@@ -1,0 +1,12 @@
+name: SDF_Explorer
+title: SDF_Explorer
+username: 1548f8-dominick-cifelli
+account: 1548f8-dominick-cifelli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11011728
+bundleId: 8176844
+url: https://dominick-a-cifelli.shinyapps.io/SDF_Explorer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
