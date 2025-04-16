@@ -1,5 +1,5 @@
 # Soil Data Explorer Repository
-Welcome to the [Soil Data Explorer repository]([https://dominick-a-cifelli.shinyapps.io/SDF_Explorer/](https://dominick-a-cifelli.shinyapps.io/SoilCarbonExplorer). This repository contains Shiny apps for exploring soil data from ongoing research. Please note that the data provided here is preliminary and subject to change.
+Welcome to the [Soil Data Explorer repository](https://dominick-a-cifelli.shinyapps.io/SoilCarbonExplorer/). This repository contains Shiny apps for exploring soil data from ongoing research. Please note that the data provided here is preliminary and subject to change.
 
 ## Disclaimer
 The data in this repository is still in the preliminary stage and may undergo further revisions. Users are cautioned against drawing solid conclusions from the data without consulting the data owner and researchers involved.
